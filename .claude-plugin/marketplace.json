@@ -1,0 +1,11 @@
+{
+  "name": "claude-docradar",
+  "owner": { "name": "Steffen Mangold" },
+  "plugins": [
+    {
+      "name": "doc-radar",
+      "source": "./",
+      "description": "Sidebar that maps every Markdown file of the project: how Claude uses it, what it costs, and how well it is written."
+    }
+  ]
+}

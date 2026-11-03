@@ -1,0 +1,10 @@
+{
+  "name": "doc-radar",
+  "version": "0.2.0",
+  "description": "Sidebar that lists every Markdown file of the current project with its usage by Claude, git history and a quality and compression assessment.",
+  "author": { "name": "Steffen Mangold" },
+  "repository": "https://github.com/SteffenMangold/Claude-DocRadar",
+  "license": "Apache-2.0",
+  "keywords": ["markdown", "documentation", "sidebar", "claude-md", "memory"],
+  "types": "./types/index.d.ts"
+}
